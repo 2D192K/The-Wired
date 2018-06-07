@@ -1,2 +1,6 @@
 <html>
+<style>
+.wiredAnim { animation: wiredB 2s ease-in-out infinite; }
+</style>
+<class="wiredAnim">The Wired</class>
 </html>
